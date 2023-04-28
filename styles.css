@@ -5,12 +5,12 @@
 	padding:0px;
 }
 div{
-  border-sizing:content-box;
-  width:300px;
+  border-sizing:border-box;
+  width:400px;
   background-color: lightblue;
   border: 15px solid blue;
-  padding: 50px;
-  margin: 20px;
+  padding:50px;
+  margin:20px;
 }
 p{
 	width:300px;
