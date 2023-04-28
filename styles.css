@@ -6,7 +6,7 @@
 }
 div {
   background-color: lightblue;
-  width: 300px;
+  text-width: 300px;
   border: 15px solid blue;
   padding: 50px;
   margin: 20px;
