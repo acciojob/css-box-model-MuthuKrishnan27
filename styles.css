@@ -1,5 +1,9 @@
 
 /* Your CSS Code here. */
+*{
+	margin:0px;
+	padding:0px;
+}
 div {
   background-color: lightblue;
   width: 300px;
