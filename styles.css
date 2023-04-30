@@ -5,6 +5,7 @@
 	padding:0px;
 }
 .container{
+  width:300px;
   background-color: lightblue;
   border: 15px solid blue;
   padding:50px;
