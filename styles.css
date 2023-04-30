@@ -4,10 +4,12 @@
 	margin:0px;
 	padding:0px;
 }
-div{
-  width:300px;
+.container{
   background-color: lightblue;
   border: 15px solid blue;
   padding:50px;
   margin:20px;
+}
+.item{
+	width:300px;
 }
